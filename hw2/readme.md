@@ -1,3 +1,3 @@
-觀看老師線上直播自行改寫完成
+參考上課直播、以老師範例為基礎自己修改的
 ![image](https://github.com/henk3520/_ws/blob/master/hw2/apptime.png)
 
