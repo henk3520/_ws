@@ -1,4 +1,4 @@
-觀看老師線上直播，並且透過gpt輔助完成
+參考上課直播、以老師範例為基礎自行修改及GPT輔助改寫
 ![image](https://github.com/henk3520/_ws/blob/master/hw3/hw3.png))
 
 
